@@ -6,3 +6,4 @@ int main()
 	cout<<"Hello world!!!";
 	return 0;
 }
+输出："Hello world!!!"
